@@ -9,9 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.1.2",
     "hapi": "^17.5.4",
     "hapi-pino": "^5.0.1",
     "inert": "^5.1.0",
+    "mocha": "^5.2.0",
     "mongoose": "^5.2.14"
   }
 }
